@@ -1,17 +1,42 @@
-# Java DSA Practice
+\# Java DSA Practice
 
-This repository contains Java programs focused on Data Structures
-and Algorithms for software developer roles.
 
-## Topics Covered
-- Arrays
-- Strings
-- Collections (upcoming)
 
-## Purpose
-- Strengthen Java fundamentals
-- Improve problem-solving skills
-- Prepare for software developer internships and placements
+This repository contains my Java-based practice problems for Data Structures and Algorithms,
 
-## Author
-Srujana Lingamgari
+focused mainly on array problems.
+
+
+
+\## Topics Covered
+
+\- Arrays
+
+&nbsp; - Linear Search
+
+&nbsp; - Reverse Array
+
+&nbsp; - Coupon Discount Problem
+
+&nbsp; - Min to Max (Count Non-Minimum Elements)
+
+&nbsp; - Valid Pairs Problem
+
+
+
+\## Tech Stack
+
+\- Java
+
+\- Git \& GitHub
+
+
+
+\## Purpose
+
+Prepared for software developer internship and placement opportunities by practicing
+
+problem-solving and core Java concepts.
+
+
+
